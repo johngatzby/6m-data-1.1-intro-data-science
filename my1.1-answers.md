@@ -1,4 +1,4 @@
-**🎬 Netflix Data Engine **
+**🎬 Netflix Data Engine**
 
 **Part 1: Collection**
 
